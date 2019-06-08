@@ -1,5 +1,5 @@
 [![xgamecoin](https://raw.githubusercontent.com/xgamecoindev/xgamebits.org/master/static/img/verge-github-badge.png)](https://github.com/xgamecoindev/xgamebits.org)
-[![Build Status](https://travis-ci.org/xgamecoindev/xgamebits.org.svg?branch=master)](https://travis-ci.org/vergecurrency/xgamebits.org) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/xgamecoindev/xgamebits.org)
+[![Build Status](https://travis-ci.org/xgamecoindev/xgamebits.org.svg?branch=master)](https://travis-ci.org/xgamecoindev/xgamebits.org) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/xgamecoindev/xgamebits.org)
 
 #  xgamebits.org 
 
